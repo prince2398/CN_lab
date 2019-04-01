@@ -42,7 +42,7 @@ int main(){
     data[m++] = 'D';
     data[m++] = 'L';
     data[m++] = 'E';
-    data[m++] = 'S';
+    data[m++] = 'E';
     data[m++] = 'T';
     data[m++] = 'X';
 
